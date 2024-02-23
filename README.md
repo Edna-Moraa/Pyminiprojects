@@ -1,0 +1,2 @@
+# Pyminiprojects
+python topics miniprojects
